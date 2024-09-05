@@ -66,7 +66,7 @@ const Hero = () => {
       </div>
 
 
-      <ComputersCanvas />
+      
 
       <div className='absolute xs:bottom-10 bottom-32 w-10 flex justify-end items-center'>
         <a href='#education'>
